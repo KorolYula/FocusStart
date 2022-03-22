@@ -1,1 +1,13 @@
 16:58:55:317 [main] ERROR  ru.korol.Main-No input file specified
+17:16:31:208 [main] INFO   ru.korol.Main-Input file name input.txt 
+17:16:31:271 [main] INFO   ru.korol.Main-The shape will be written to file out.txt
+17:16:31:271 [main] INFO   ru.korol.Main-Shape read from file
+17:16:31:286 [main] INFO   ru.korol.Main-Figure is recorded in out.txt
+17:35:47:153 [main] INFO   ru.korol.Main-Input file name input.txt 
+17:35:47:161 [main] INFO   ru.korol.Main-The shape will be written to file out.txt
+17:35:47:169 [main] INFO   ru.korol.Main-Shape read from file
+17:35:47:185 [main] INFO   ru.korol.Main-Figure is recorded in out.txt
+17:48:56:905 [main] INFO   ru.korol.Main-Input file name input.txt 
+17:48:56:921 [main] INFO   ru.korol.Main-The shape will be written to file out.txt
+17:48:56:968 [main] INFO   ru.korol.Main-Shape read from file
+17:48:56:983 [main] INFO   ru.korol.Main-Figure is recorded in out.txt

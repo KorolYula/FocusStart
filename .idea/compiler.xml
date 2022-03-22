@@ -4,6 +4,7 @@
     <bytecodeTargetLevel>
       <module name="Miner.1.main" target="16" />
       <module name="Miner.1.test" target="16" />
+          <module name="Treads.test" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>

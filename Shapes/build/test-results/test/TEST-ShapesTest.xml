@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShapesTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-03-22T10:31:49" hostname="LAPTOP-60KB2CE6" time="0.089">
+  <properties/>
+  <testcase name="createTriangle()" classname="ShapesTest" time="0.045"/>
+  <testcase name="getCircleDiameter()" classname="ShapesTest" time="0.002"/>
+  <testcase name="getCircleArea()" classname="ShapesTest" time="0.001"/>
+  <testcase name="getCircleRadius()" classname="ShapesTest" time="0.001"/>
+  <testcase name="createTriangleWithError()" classname="ShapesTest" time="0.004"/>
+  <testcase name="getRectangleLength()" classname="ShapesTest" time="0.002"/>
+  <testcase name="getRectangleArea()" classname="ShapesTest" time="0.001"/>
+  <testcase name="getRectangleWidth()" classname="ShapesTest" time="0.001"/>
+  <testcase name="getTrianglePerimeter()" classname="ShapesTest" time="0.009"/>
+  <testcase name="getTriangleArea()" classname="ShapesTest" time="0.002"/>
+  <testcase name="createRectangleWithError()" classname="ShapesTest" time="0.002"/>
+  <testcase name="getCirclePerimeter()" classname="ShapesTest" time="0.0"/>
+  <testcase name="getRectanglePerimeter()" classname="ShapesTest" time="0.001"/>
+  <testcase name="createCircleWithError()" classname="ShapesTest" time="0.001"/>
+  <testcase name="getRectangleDiagonal()" classname="ShapesTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

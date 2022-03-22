@@ -1,0 +1,12 @@
+17:19:43:548 [main] INFO   ru.korol.Main-Прочитана цифра 800
+17:19:43:548 [main] INFO   ru.korol.Main-Шаг для каждого потока 88 
+17:19:43:548 [main] INFO   ru.korol.Main-Поток 0. Границы от 1 до 88
+17:19:43:548 [main] INFO   ru.korol.Main-Поток 1. Границы от 89 до 176
+17:19:43:548 [main] INFO   ru.korol.Main-Поток 2. Границы от 177 до 264
+17:19:43:548 [main] INFO   ru.korol.Main-Поток 3. Границы от 265 до 352
+17:19:43:548 [main] INFO   ru.korol.Main-Поток 4. Границы от 353 до 440
+17:19:43:548 [main] INFO   ru.korol.Main-Поток 5. Границы от 441 до 528
+17:19:43:564 [main] INFO   ru.korol.Main-Поток 6. Границы от 529 до 616
+17:19:43:596 [main] INFO   ru.korol.Main-Поток 7. Границы от 617 до 704
+17:19:43:596 [main] INFO   ru.korol.Main-Поток 8. Границы от 705 до 792
+17:19:43:596 [main] INFO   ru.korol.Main-Поток 9. Границы от 793 до 800

@@ -1,0 +1,12 @@
+17:48:14:662 [main] INFO   ru.korol.Main-Прочитана цифра 56
+17:48:14:662 [main] INFO   ru.korol.Main-Шаг для каждого потока 6 
+17:48:14:662 [main] INFO   ru.korol.Main-Поток 0. Границы от 1 до 6
+17:48:14:662 [main] INFO   ru.korol.Main-Поток 1. Границы от 7 до 12
+17:48:14:662 [main] INFO   ru.korol.Main-Поток 2. Границы от 13 до 18
+17:48:14:678 [main] INFO   ru.korol.Main-Поток 3. Границы от 19 до 24
+17:48:14:678 [main] INFO   ru.korol.Main-Поток 4. Границы от 25 до 30
+17:48:14:678 [main] INFO   ru.korol.Main-Поток 5. Границы от 31 до 36
+17:48:14:678 [main] INFO   ru.korol.Main-Поток 6. Границы от 37 до 42
+17:48:14:678 [main] INFO   ru.korol.Main-Поток 7. Границы от 43 до 48
+17:48:14:678 [main] INFO   ru.korol.Main-Поток 8. Границы от 49 до 54
+17:48:14:678 [main] INFO   ru.korol.Main-Поток 9. Границы от 55 до 56

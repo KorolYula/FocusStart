@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Miner.1.main" target="16" />
+      <module name="Miner.1.test" target="16" />
+      <module name="MultiplicationTable" target="16" />
+      <module name="Shapes" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
